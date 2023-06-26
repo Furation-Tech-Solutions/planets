@@ -1,19 +1,15 @@
 <img src="https://github.com/jyotirmoy-paul/planets/blob/main/assets/images/planets.png" width=180/>
 
-# Planets | [Best Execution Winner](https://medium.com/flutter/announcing-the-flutter-puzzle-hack-winners-ae55f45c6363) 🏆
+# Planets  🏆
 Can you put together the planets of our solar system? An interplanetary slide puzzle, powered by Flutter.
-
-### My Flutter Puzzle Hack submission
 
 ## Build the app
 To get the best experience in web, please always use `canvaskit` while building the app
 
 `flutter build web --web-renderer canvaskit`
 ## Links
-* Devpost [submission](https://devpost.com/software/planets-m6f8nx)
 * Planets [web app](https://fph-planets.web.app/#/)
 * Planets [android app](https://github.com/jyotirmoy-paul/planets/releases/tag/v1.3.0)
-* Youtube [project video](https://www.youtube.com/watch?v=fZcdObp-4co)
 
 ## Screenshots
 <img src="https://github.com/jyotirmoy-paul/planets/blob/main/media/Web_2.jpg"/>
